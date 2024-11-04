@@ -61,7 +61,6 @@
 
 <div> 
 <a href="https://www.linkedin.com/in/rafael-santos-94a56a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-📱 (91)98019-1799
 ✉️ rafaelhmsantos19@gmail.com
 </div>
 
