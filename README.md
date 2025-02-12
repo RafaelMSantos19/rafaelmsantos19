@@ -3,8 +3,8 @@
 <p align="center">I build new coding solutions ⚙️ and solve great challenges using tech. 🔋 <br><br> Software engineer focused on Node JS and Web development. My experience is focused on agile development and long-term maintenance of legacy systems. I have a strong interest in always learning about new technologies and understanding how they can be applied to systems that I am currently working on.</p>
 
 <div  align="center" style="margin-bottom:100px">
-<!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMSantos19&theme=radical&mode=weekly" /> -->
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=RafaelMSantos19&show_icons=true&theme=radical&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmsantos19&show_icons=true&locale=en&layout=compact&theme=radical" alt="rafaelmsantos19" />
+  <img width=52% align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmsantos19&show_icons=true&theme=radical&locale=en" alt="rafaelmsantos19" />
  </div>
 
 &nbsp;
